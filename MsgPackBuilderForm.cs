@@ -1,10 +1,4 @@
 // MsgPackBuilderForm.cs
-// Drop into a .NET 6+ WinForms project.
-// Add NuGet package: MessagePack (by neuecc / Cysharp)
-//   dotnet add package MessagePack
-//
-// Set as startup form in Program.cs:
-//   Application.Run(new MsgPackBuilderForm());
 
 using System;
 using System.Collections.Generic;
