@@ -13,9 +13,9 @@ dotnet build
 
 Usage:
 1. Add any type from the dropdown box
-    a. [Map-Type Only] Enter A Key
-    b. Enter a value for the type (for nil/null, leave blank)
-2. Repeat until finished
-3. Press the 'Build' button! 
+2. (Map-type) Enter A Key
+3. Enter a value for the type (for nil/null, leave blank)
+4. Repeat until finished
+5. Press the 'Build' button! 
 
 ![ ](images/example.png)
