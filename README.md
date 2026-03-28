@@ -18,4 +18,4 @@ Usage:
 2. Repeat until finished
 3. Press the 'Build' button! 
 
-![ ](http://github.com/cjens00/MsgPackBuilder/images/example.png)
+![ ](images/example.png)
